@@ -65,6 +65,7 @@ Attrition rates were compared across different job roles.
 * **Human Resources** and **Laboratory Technicians** also showed relatively high attrition rates
 * **Managers** and **Research Directors** demonstrated very low attrition rates
 
+
 ### Insight
 
 Junior and operational roles appear more vulnerable to employee turnover than senior leadership positions.
